@@ -4459,12 +4459,6 @@
 			(uuid "d0971293-181e-4a3e-b993-9593a662880c")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D13")
@@ -4530,12 +4524,6 @@
 			(uuid "51f282c3-7364-4bb4-9f2f-a89776c457d8")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0109")
@@ -4678,12 +4666,6 @@
 			(uuid "e209a088-9ee7-4a0f-9782-f6d2a060969c")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV5")
@@ -4825,12 +4807,6 @@
 			(uuid "5a90c980-143c-40e8-9e43-ca369beca2cb")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D7")
@@ -4979,12 +4955,6 @@
 			(uuid "f45bf2ae-8c7c-4899-a0c5-547484c016ec")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K7")
@@ -5133,12 +5103,6 @@
 			(uuid "62d68cc9-179a-4398-a304-d1ab59a4569b")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K3")
@@ -5280,12 +5244,6 @@
 			(uuid "5eb41be7-0c10-4e41-9121-025218840ad8")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R6")
@@ -5424,12 +5382,6 @@
 			(uuid "baa6663e-d093-4ca6-9ee6-94e83ce032e9")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D2")
@@ -5495,12 +5447,6 @@
 			(uuid "a7b88ae4-c74b-4f95-b97d-6980b83f9cf8")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0101")
@@ -5639,12 +5585,6 @@
 			(uuid "133ca09f-ef2d-40f2-9b8e-134ecc1a77eb")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D12")
@@ -5786,12 +5726,6 @@
 			(uuid "0ea57d47-1df5-479c-b731-cc55c3a60e4f")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R8")
@@ -5857,12 +5791,6 @@
 			(uuid "e74f9389-87c1-4a9c-96d0-485fd80552d3")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0105")
@@ -6004,12 +5932,6 @@
 			(uuid "93ceeaac-a406-4698-b167-768738115b8a")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D9")
@@ -6151,12 +6073,6 @@
 			(uuid "d5379013-c8fe-4026-9049-bb892aad3095")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R1")
@@ -6222,12 +6138,6 @@
 			(uuid "57804167-1521-4b58-a003-1ddf1f4c1567")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0103")
@@ -6435,12 +6345,6 @@
 			(uuid "b6f9f852-0654-43da-abb4-9393c5cc15a0")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R5")
@@ -6582,12 +6486,6 @@
 			(uuid "459da392-a8c6-47a7-9398-f264f080aed0")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D5")
@@ -6729,12 +6627,6 @@
 			(uuid "2faa185e-6df0-4f7c-850e-41d2e083195b")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R3")
@@ -6883,12 +6775,6 @@
 			(uuid "35965855-d08c-49e4-99dd-685deaae2b4d")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K4")
@@ -7030,12 +6916,6 @@
 			(uuid "b119a41f-aaa8-4961-aae3-a1b94185c07f")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D15")
@@ -7196,12 +7076,6 @@
 			(uuid "c2ddf111-2d69-41a8-af29-7ce227fccca4")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "J?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "J4")
@@ -7344,12 +7218,6 @@
 			(uuid "f1034be7-e94d-4b0a-9a5a-d863e804360c")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV8")
@@ -7498,12 +7366,6 @@
 			(uuid "4c9f6dfc-54a8-4162-9a0c-ba8f660fb3a2")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K5")
@@ -7652,12 +7514,6 @@
 			(uuid "a037987d-0712-4309-adff-27e4ae7001dd")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K1")
@@ -7796,12 +7652,6 @@
 			(uuid "ebe94fae-345c-4411-a580-940ef18f7ac0")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D16")
@@ -7867,12 +7717,6 @@
 			(uuid "b8d6185c-07cb-4a53-8dec-57a7e6c1a692")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0102")
@@ -8015,12 +7859,6 @@
 			(uuid "9a76190f-2c0d-4c8d-84d7-8681e1d35976")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV4")
@@ -8086,12 +7924,6 @@
 			(uuid "f569f776-5485-47aa-9bb9-da47e5b61d1d")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR01")
@@ -8233,12 +8065,6 @@
 			(uuid "cd4d3e4f-f3b0-4362-ba27-a2ae1125f227")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R4")
@@ -8380,12 +8206,6 @@
 			(uuid "50a31d2f-334a-44c6-9c63-207c382fc059")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D1")
@@ -8528,12 +8348,6 @@
 			(uuid "472ed406-73b3-4a72-9117-96e12a7ec03c")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV2")
@@ -8694,12 +8508,6 @@
 			(uuid "8ed208a2-2b59-4621-a2e2-e185f0734cd4")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "J?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "J3")
@@ -8841,12 +8649,6 @@
 			(uuid "9d4ca414-7d28-4b17-a329-44225a1056f4")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R7")
@@ -8988,12 +8790,6 @@
 			(uuid "9c99251f-e700-4195-98e3-e3b59ddad9c5")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "R?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R2")
@@ -9059,12 +8855,6 @@
 			(uuid "29f9c1b9-429a-40ab-85ab-bc7d2f2b0d75")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0106")
@@ -9284,12 +9074,6 @@
 			(uuid "1c640910-f437-4420-9af1-597e2aa3da4b")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0104")
@@ -9431,12 +9215,6 @@
 			(uuid "0d7c4aa4-99f2-4bff-b76b-2b6941c4b8a3")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D11")
@@ -9579,12 +9357,6 @@
 			(uuid "331527f8-cc3d-432b-a7b8-3da9010f4338")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV7")
@@ -9723,12 +9495,6 @@
 			(uuid "afbd10c5-f6f1-48fd-b7e0-6dcfbc37393d")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D14")
@@ -9867,12 +9633,6 @@
 			(uuid "8eb228f2-a999-425d-a914-e92143d97d69")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D8")
@@ -10021,12 +9781,6 @@
 			(uuid "0e0c124b-b920-4d76-a3b9-6e7c4c1b7562")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K8")
@@ -10092,12 +9846,6 @@
 			(uuid "8d7ef90d-05a6-43b1-a677-fb7163eb09fc")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0108")
@@ -10240,12 +9988,6 @@
 			(uuid "8988ba1f-9f41-4449-8bcd-7563fdb8ff35")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV6")
@@ -10465,12 +10207,6 @@
 			(uuid "501c277e-87cb-4dd3-bd61-77ba15b95be5")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "#PWR0107")
@@ -10609,12 +10345,6 @@
 			(uuid "51e01e34-986f-46b1-be59-fa22c270b4df")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D6")
@@ -10756,12 +10486,6 @@
 			(uuid "d0e0bab9-424e-4b6d-954b-bb217dd0ba48")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D3")
@@ -10900,12 +10624,6 @@
 			(uuid "6f18e29a-d3ab-4858-8a4e-9343ab90644c")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D4")
@@ -11054,12 +10772,6 @@
 			(uuid "b96224b6-f7f5-4ad2-b56b-2cb0ff4bf722")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K6")
@@ -11202,12 +10914,6 @@
 			(uuid "87b64b9d-ec46-43d7-b46b-7a3476ea3009")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV1")
@@ -11350,12 +11056,6 @@
 			(uuid "b72e340d-b5b9-4070-a91f-abce3ca8f22c")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "RV?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "RV3")
@@ -11504,12 +11204,6 @@
 			(uuid "0d7667da-ceca-4b2b-a5a9-bfda4f317897")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "K?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "K2")
@@ -11648,12 +11342,6 @@
 			(uuid "bc022452-1086-4117-b9f0-3352af8ee193")
 		)
 		(instances
-			(project "ESP-relay-8ch-V2"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "D?")
-					(unit 1)
-				)
-			)
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D10")
