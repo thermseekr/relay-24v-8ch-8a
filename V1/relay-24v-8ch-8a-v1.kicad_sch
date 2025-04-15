@@ -10,6 +10,203 @@
 		(rev "V1")
 	)
 	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x04"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x04_1_1"
+				(rectangle
+					(start -1.27 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 3.81)
+					(end 1.27 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Connector_Generic:Conn_01x06"
 			(pin_names
 				(offset 1.016) hide)
@@ -256,319 +453,6 @@
 						)
 					)
 					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Connector_Generic:Conn_01x08"
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x08"
-				(at 0 -12.7 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x08_1_1"
-				(rectangle
-					(start -1.27 -10.033)
-					(end 0 -10.287)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -7.493)
-					(end 0 -7.747)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 5.207)
-					(end 0 4.953)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 7.747)
-					(end 0 7.493)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 8.89)
-					(end 1.27 -11.43)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 7.62 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -7.62 0)
-					(length 3.81)
-					(name "Pin_7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -10.16 0)
-					(length 3.81)
-					(name "Pin_8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2128,6 +2012,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 62.23) (xy 254 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "022a5109-9e7a-47ef-a72b-4cbfaf061fe5")
+	)
+	(wire
+		(pts
 			(xy 129.54 16.51) (xy 129.54 26.67)
 		)
 		(stroke
@@ -2208,13 +2102,13 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 130.81) (xy 243.84 102.87)
+			(xy 248.92 59.69) (xy 254 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0affa92a-c7e0-4e1a-8965-18f4ecdce303")
+		(uuid "09a26483-340d-4cc6-bf44-acee7d9cccb7")
 	)
 	(wire
 		(pts
@@ -2268,7 +2162,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 130.81) (xy 243.84 130.81)
+			(xy 129.54 130.81) (xy 254 130.81)
 		)
 		(stroke
 			(width 0)
@@ -2375,16 +2269,6 @@
 			(type default)
 		)
 		(uuid "1934f4d2-b02f-4c83-9eb3-c86afffd3461")
-	)
-	(wire
-		(pts
-			(xy 243.84 54.61) (xy 243.84 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19c3cd5d-f6ec-47b5-bde3-c814196e89e9")
 	)
 	(wire
 		(pts
@@ -2508,7 +2392,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 57.15) (xy 246.38 57.15)
+			(xy 142.24 57.15) (xy 254 57.15)
 		)
 		(stroke
 			(width 0)
@@ -2558,16 +2442,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 67.31) (xy 248.92 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2be34fca-4a9b-4606-b61e-aec0326c6095")
-	)
-	(wire
-		(pts
 			(xy 95.25 140.97) (xy 95.25 143.51)
 		)
 		(stroke
@@ -2585,6 +2459,16 @@
 			(type default)
 		)
 		(uuid "2f92a3d5-6bb8-4422-a486-c27ba40e9a0a")
+	)
+	(wire
+		(pts
+			(xy 248.92 143.51) (xy 248.92 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fb0ae06-5777-4043-9dfe-44a3f081a32c")
 	)
 	(wire
 		(pts
@@ -2698,16 +2582,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 29.21) (xy 254 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dfa57e9-5729-4471-bfac-72c27233e11e")
-	)
-	(wire
-		(pts
 			(xy 172.72 87.63) (xy 181.61 87.63)
 		)
 		(stroke
@@ -2735,16 +2609,6 @@
 			(type default)
 		)
 		(uuid "3fbb23cb-5e62-4179-ad12-b1abc651b4d1")
-	)
-	(wire
-		(pts
-			(xy 251.46 110.49) (xy 254 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "42c48901-08f8-408c-9f5b-129dc0cf4121")
 	)
 	(wire
 		(pts
@@ -2928,16 +2792,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 31.75) (xy 254 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "50d6db61-fa50-4f1d-aea1-d1252caaba0e")
-	)
-	(wire
-		(pts
 			(xy 172.72 29.21) (xy 181.61 29.21)
 		)
 		(stroke
@@ -3108,7 +2962,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 133.35) (xy 246.38 133.35)
+			(xy 142.24 133.35) (xy 254 133.35)
 		)
 		(stroke
 			(width 0)
@@ -3155,16 +3009,6 @@
 			(type default)
 		)
 		(uuid "66323829-5c2c-4c60-91f5-19f3538bf221")
-	)
-	(wire
-		(pts
-			(xy 243.84 26.67) (xy 254 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66c08419-ee18-4536-84eb-05c9d5681de8")
 	)
 	(wire
 		(pts
@@ -3218,26 +3062,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 146.05) (xy 251.46 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d6dbb0f-0f54-46b3-8fb4-0b4a93ae670d")
-	)
-	(wire
-		(pts
-			(xy 243.84 102.87) (xy 254 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e9b9f2e-dbe1-4cce-9aa9-55d2dc83b3cd")
-	)
-	(wire
-		(pts
 			(xy 142.24 19.05) (xy 254 19.05)
 		)
 		(stroke
@@ -3248,13 +3072,13 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 133.35) (xy 246.38 105.41)
+			(xy 251.46 69.85) (xy 251.46 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "70257011-c690-4bee-9b10-00fe2c575b92")
+		(uuid "719edfac-8295-4429-996b-bec4bf40f928")
 	)
 	(wire
 		(pts
@@ -3638,6 +3462,26 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 67.31) (xy 248.92 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e6e692d-1ab3-4ae1-9254-052b42daa63b")
+	)
+	(wire
+		(pts
+			(xy 251.46 138.43) (xy 254 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e806fa8-21cb-4ca6-b9af-d5476fa243e2")
+	)
+	(wire
+		(pts
 			(xy 226.06 35.56) (xy 226.06 29.21)
 		)
 		(stroke
@@ -3688,6 +3532,16 @@
 	)
 	(wire
 		(pts
+			(xy 251.46 146.05) (xy 251.46 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a95673a7-5bcc-4cf2-97b6-1328da1c9aad")
+	)
+	(wire
+		(pts
 			(xy 129.54 92.71) (xy 129.54 102.87)
 		)
 		(stroke
@@ -3698,13 +3552,13 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 107.95) (xy 254 107.95)
+			(xy 248.92 135.89) (xy 254 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ab44d302-0634-4f64-84b9-a58629da6550")
+		(uuid "af39a297-7967-4690-86a8-f5866799c1ce")
 	)
 	(wire
 		(pts
@@ -3725,26 +3579,6 @@
 			(type default)
 		)
 		(uuid "b16e9a49-9f16-42f8-ab1f-7eccb04c322c")
-	)
-	(wire
-		(pts
-			(xy 246.38 105.41) (xy 254 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b178fe98-d26c-43d8-b0ab-d63e18e3efae")
-	)
-	(wire
-		(pts
-			(xy 251.46 69.85) (xy 251.46 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b187bee8-63fd-4fb0-9fe3-2e06bf15b080")
 	)
 	(wire
 		(pts
@@ -3958,16 +3792,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 143.51) (xy 248.92 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d0743e70-b2c8-49db-846a-719381c030ce")
-	)
-	(wire
-		(pts
 			(xy 172.72 152.4) (xy 172.72 153.67)
 		)
 		(stroke
@@ -4058,16 +3882,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 57.15) (xy 246.38 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcbaae01-bbce-4c68-8891-bce608b517c7")
-	)
-	(wire
-		(pts
 			(xy 201.93 105.41) (xy 226.06 105.41)
 		)
 		(stroke
@@ -4095,16 +3909,6 @@
 			(type default)
 		)
 		(uuid "e1754983-7d71-4e49-98e7-00c952d08aa6")
-	)
-	(wire
-		(pts
-			(xy 251.46 34.29) (xy 254 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e46e9cef-a23f-41e1-ab32-3795ea88ee2b")
 	)
 	(wire
 		(pts
@@ -4158,7 +3962,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 54.61) (xy 243.84 54.61)
+			(xy 129.54 54.61) (xy 254 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4344,7 +4148,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 73.66 154.94 90)
 			(effects
 				(font
@@ -4380,7 +4184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 76.2 154.94 0)
 			(effects
 				(font
@@ -4389,7 +4193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 76.2 154.94 0)
 			(effects
 				(font
@@ -4416,7 +4220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 76.2 154.94 0)
 			(effects
 				(font
@@ -4425,7 +4229,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 73.66 157.48 90)
 			(effects
 				(font
@@ -4692,7 +4496,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 170.18 81.28 90)
 			(effects
 				(font
@@ -4728,7 +4532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 172.72 81.28 0)
 			(effects
 				(font
@@ -4737,7 +4541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 172.72 81.28 0)
 			(effects
 				(font
@@ -4764,7 +4568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 172.72 81.28 0)
 			(effects
 				(font
@@ -4773,7 +4577,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 170.18 83.82 90)
 			(effects
 				(font
@@ -4906,7 +4710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 100.33 151.13 0)
 			(effects
 				(font
@@ -4933,7 +4737,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 100.33 151.13 0)
 			(effects
 				(font
@@ -5054,7 +4858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 100.33 74.93 0)
 			(effects
 				(font
@@ -5081,7 +4885,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 100.33 74.93 0)
 			(effects
 				(font
@@ -5800,6 +5604,154 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 259.08 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "37cf821b-1da5-4374-9d22-989d6397fa08")
+		(property "Reference" "J5"
+			(at 261.62 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DB142V-5.08-4P"
+			(at 261.62 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-4P_1x04_P5.08mm_Vertical"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB BOM" "1"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2898701"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "DORABO"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr PN" "DB142V-5.08-4P-GN"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "~"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Technology" "~"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor PN" "C2898701"
+			(at 259.08 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9a198d5f-1f48-4a72-a045-ec82488c3160")
+		)
+		(pin "2"
+			(uuid "0242f7da-b59a-4301-a384-3694a3c4e1c4")
+		)
+		(pin "4"
+			(uuid "348c987a-8076-43b6-8ef8-1eb7c873b267")
+		)
+		(pin "1"
+			(uuid "fc8c86d4-daf7-4b12-b1ad-a92eeae6e21e")
+		)
+		(instances
+			(project "relay-24v-8ch-8a-v1"
+				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 76.2 116.84 90)
 		(unit 1)
@@ -5817,7 +5769,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 73.66 116.84 90)
 			(effects
 				(font
@@ -5853,7 +5805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 76.2 116.84 0)
 			(effects
 				(font
@@ -5862,7 +5814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 76.2 116.84 0)
 			(effects
 				(font
@@ -5889,7 +5841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 76.2 116.84 0)
 			(effects
 				(font
@@ -5898,7 +5850,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 73.66 119.38 90)
 			(effects
 				(font
@@ -6147,6 +6099,154 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 259.08 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6170f300-646b-4671-a068-f1d275bab1e1")
+		(property "Reference" "J4"
+			(at 261.62 57.1499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DB142V-5.08-4P"
+			(at 261.62 59.6899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-4P_1x04_P5.08mm_Vertical"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB BOM" "1"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2898701"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "DORABO"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr PN" "DB142V-5.08-4P-GN"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "~"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Technology" "~"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor PN" "C2898701"
+			(at 259.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "cb84332a-0ba7-417e-9cb1-8bd0138c44ad")
+		)
+		(pin "2"
+			(uuid "f445abe8-3219-4e77-ac1b-ac73a5514d67")
+		)
+		(pin "4"
+			(uuid "e9c3d15c-ebef-4d7b-9d67-0ddf298257a4")
+		)
+		(pin "1"
+			(uuid "2a7604a9-734e-48a7-a87c-6348c6894fa7")
+		)
+		(instances
+			(project "relay-24v-8ch-8a-v1"
+				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 53.34 36.83 0)
 		(unit 1)
@@ -6371,7 +6471,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 73.66 78.74 90)
 			(effects
 				(font
@@ -6407,7 +6507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 76.2 78.74 0)
 			(effects
 				(font
@@ -6416,7 +6516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 76.2 78.74 0)
 			(effects
 				(font
@@ -6443,7 +6543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 76.2 78.74 0)
 			(effects
 				(font
@@ -6452,7 +6552,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 73.66 81.28 90)
 			(effects
 				(font
@@ -6726,7 +6826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 196.85 77.47 0)
 			(effects
 				(font
@@ -6753,7 +6853,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 196.85 77.47 0)
 			(effects
 				(font
@@ -6801,7 +6901,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 170.18 157.48 90)
 			(effects
 				(font
@@ -6837,7 +6937,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 172.72 157.48 0)
 			(effects
 				(font
@@ -6846,7 +6946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 172.72 157.48 0)
 			(effects
 				(font
@@ -6873,7 +6973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 172.72 157.48 0)
 			(effects
 				(font
@@ -6882,7 +6982,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 170.18 160.02 90)
 			(effects
 				(font
@@ -6919,166 +7019,6 @@
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "D15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x08")
-		(at 259.08 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "70bf0353-b990-4c3e-bcd9-c286964f0dfe")
-		(property "Reference" "J4"
-			(at 261.62 100.965 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DB142V-5.08-8P"
-			(at 261.62 103.505 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-8P_1x08_P5.08mm_Vertical"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" "DIBO"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr PN" "DB142V-5.08-8P"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Technology" "~"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor" "JLCPCB"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor PN" "C2898705"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "~"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C2898705"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "00aef916-ac26-4f7f-94ed-c19c4853bd7c")
-		)
-		(pin "2"
-			(uuid "0e61d6f4-7b59-4b1f-9942-e8426dd981b0")
-		)
-		(pin "3"
-			(uuid "16672ee7-d92e-4cc3-8494-ae38476ea62f")
-		)
-		(pin "4"
-			(uuid "c38f3c60-a6eb-49fd-ad76-b41ea575e4a8")
-		)
-		(pin "5"
-			(uuid "58a2fc0e-e375-41be-a49a-adce27477149")
-		)
-		(pin "6"
-			(uuid "c0a819f6-19b0-443c-9045-55909fba9cfd")
-		)
-		(pin "7"
-			(uuid "6eae09db-443d-423e-94be-6346d853bd65")
-		)
-		(pin "8"
-			(uuid "c2ddf111-2d69-41a8-af29-7ce227fccca4")
-		)
-		(instances
-			(project "relay-24v-8ch-8a-v1"
-				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
-					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -7317,7 +7257,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 100.33 113.03 0)
 			(effects
 				(font
@@ -7344,7 +7284,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 100.33 113.03 0)
 			(effects
 				(font
@@ -7465,7 +7405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 100.33 36.83 0)
 			(effects
 				(font
@@ -7492,7 +7432,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 100.33 36.83 0)
 			(effects
 				(font
@@ -8091,7 +8031,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 73.66 40.64 90)
 			(effects
 				(font
@@ -8127,7 +8067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 76.2 40.64 0)
 			(effects
 				(font
@@ -8136,7 +8076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 76.2 40.64 0)
 			(effects
 				(font
@@ -8163,7 +8103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 76.2 40.64 0)
 			(effects
 				(font
@@ -8172,7 +8112,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 73.66 43.18 90)
 			(effects
 				(font
@@ -8357,166 +8297,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x08")
-		(at 259.08 24.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9ace80b1-2e73-4017-9f2a-d7c806dd6aa6")
-		(property "Reference" "J3"
-			(at 261.62 24.765 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "DB142V-5.08-8P"
-			(at 261.62 27.305 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-8P_1x08_P5.08mm_Vertical"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr" "DIBO"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfr PN" "DB142V-5.08-8P"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Technology" "~"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor" "JLCPCB"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Vendor PN" "C2898705"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPCB BOM" "1"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "~"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part #" "C2898705"
-			(at 259.08 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fd49abab-40e3-406b-826b-d7dabb16d306")
-		)
-		(pin "2"
-			(uuid "92039521-442e-4505-b6c0-bd4ef3a33b16")
-		)
-		(pin "3"
-			(uuid "6d14b1d8-40cf-4ac7-85e1-2d31814170ab")
-		)
-		(pin "4"
-			(uuid "24bac576-96c8-44f7-8e21-0ac71fc8c171")
-		)
-		(pin "5"
-			(uuid "be790167-9f9c-44bd-a59e-59a755aea0b7")
-		)
-		(pin "6"
-			(uuid "fef0a6f7-f04c-4ca0-80dc-2afc88ce2752")
-		)
-		(pin "7"
-			(uuid "23aaf077-e42b-4aa5-a4ba-c797765aed97")
-		)
-		(pin "8"
-			(uuid "8ed208a2-2b59-4621-a2e2-e185f0734cd4")
-		)
-		(instances
-			(project "relay-24v-8ch-8a-v1"
-				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
-					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 76.2 146.05 0)
 		(unit 1)
@@ -8652,6 +8432,154 @@
 			(project "relay-24v-8ch-8a-v1"
 				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 259.08 19.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ab7ba0e9-6933-4ded-b964-43712647b8f1")
+		(property "Reference" "J3"
+			(at 261.62 19.0499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DB142V-5.08-4P"
+			(at 261.62 21.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-4P_1x04_P5.08mm_Vertical"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB BOM" "1"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2898701"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "DORABO"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr PN" "DB142V-5.08-4P-GN"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "~"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Technology" "~"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor PN" "C2898701"
+			(at 259.08 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b134a500-753e-4295-bbd6-1b76b63f98e0")
+		)
+		(pin "2"
+			(uuid "8650ad1d-d25e-4ed7-8330-11a92dd08192")
+		)
+		(pin "4"
+			(uuid "a3c4ade2-1827-4499-b690-03a6fb131d7c")
+		)
+		(pin "1"
+			(uuid "1df0592c-6b76-464a-8f71-c2e9f872fe45")
+		)
+		(instances
+			(project ""
+				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -8927,7 +8855,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2898747"
+		(property "LCSC Part #" "C2898748"
 			(at 35.56 49.53 0)
 			(effects
 				(font
@@ -8936,7 +8864,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "DIBO"
+		(property "Mfr" "DORABO"
 			(at 35.56 49.53 0)
 			(effects
 				(font
@@ -8972,7 +8900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2898747"
+		(property "Vendor PN" "C2898748"
 			(at 35.56 49.53 0)
 			(effects
 				(font
@@ -9100,7 +9028,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 170.18 119.38 90)
 			(effects
 				(font
@@ -9136,7 +9064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 172.72 119.38 0)
 			(effects
 				(font
@@ -9145,7 +9073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 172.72 119.38 0)
 			(effects
 				(font
@@ -9172,7 +9100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 172.72 119.38 0)
 			(effects
 				(font
@@ -9181,7 +9109,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 170.18 121.92 90)
 			(effects
 				(font
@@ -9732,7 +9660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 196.85 153.67 0)
 			(effects
 				(font
@@ -9759,7 +9687,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 196.85 153.67 0)
 			(effects
 				(font
@@ -10060,7 +9988,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2898747"
+		(property "LCSC Part #" "C2898748"
 			(at 35.56 125.73 0)
 			(effects
 				(font
@@ -10069,7 +9997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "DIBO"
+		(property "Mfr" "DORABO"
 			(at 35.56 125.73 0)
 			(effects
 				(font
@@ -10105,7 +10033,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2898747"
+		(property "Vendor PN" "C2898748"
 			(at 35.56 125.73 0)
 			(effects
 				(font
@@ -10354,6 +10282,154 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 259.08 133.35 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e0c0faaf-dd30-408a-b90d-0b71b949f757")
+		(property "Reference" "J6"
+			(at 261.62 133.3499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DB142V-5.08-4P"
+			(at 261.62 135.8899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-4P_1x04_P5.08mm_Vertical"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB BOM" "1"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2898701"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr" "DORABO"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfr PN" "DB142V-5.08-4P-GN"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "~"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Technology" "~"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor" "JLCPCB"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Vendor PN" "C2898701"
+			(at 259.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "cf268d96-1552-4f0c-b2b5-9a91d0a0c55c")
+		)
+		(pin "2"
+			(uuid "215ff04e-82eb-41c0-be21-c3c63c5cca0e")
+		)
+		(pin "4"
+			(uuid "87cfabab-64bb-430c-bde4-3e515b9b0363")
+		)
+		(pin "1"
+			(uuid "c6a35840-a517-422a-ba6b-465d3a81773d")
+		)
+		(instances
+			(project "relay-24v-8ch-8a-v1"
+				(path "/57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
 		(at 172.72 43.18 90)
 		(unit 1)
@@ -10371,7 +10447,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "EMERALD"
 			(at 170.18 43.18 90)
 			(effects
 				(font
@@ -10407,7 +10483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr" "Everlight"
+		(property "Mfr" "Everlight Elec"
 			(at 172.72 43.18 0)
 			(effects
 				(font
@@ -10416,7 +10492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfr PN" "19-217/GHC-YR1S2/3T"
+		(property "Mfr PN" "19-213/GHC-XS1T1N/5T"
 			(at 172.72 43.18 0)
 			(effects
 				(font
@@ -10443,7 +10519,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C72043"
+		(property "Vendor PN" "C2984266"
 			(at 172.72 43.18 0)
 			(effects
 				(font
@@ -10452,7 +10528,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C72043"
+		(property "LCSC Part #" "C2984266"
 			(at 170.18 45.72 90)
 			(effects
 				(font
@@ -10723,7 +10799,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 196.85 115.57 0)
 			(effects
 				(font
@@ -10750,7 +10826,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 196.85 115.57 0)
 			(effects
 				(font
@@ -11155,7 +11231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor PN" "C2931104"
+		(property "Vendor PN" "C89311"
 			(at 196.85 39.37 0)
 			(effects
 				(font
@@ -11182,7 +11258,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C2931104"
+		(property "LCSC Part #" "C89311"
 			(at 196.85 39.37 0)
 			(effects
 				(font
