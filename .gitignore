@@ -33,4 +33,7 @@ fp-info-cache
 .DS_Store
 
 # Backups
-V1/production/backups
+v*/production/backups
+
+# Kicad history
+.history
