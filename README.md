@@ -10,7 +10,7 @@ Board uses Omron 10A relays and is limited to 8A/channel per copper trace capaci
 
 ## VERSION HISTORY
 
-V1.1 - 2026/06/13 - The 2.54mm pitch input connectors were replaced with 3.5mm pitch for easier installation in the field.
+V1.1 - 2026/06/13 - Input terminal blocks replaced from 2.54mm to 3.5mm pitch for easier installation in the field.
 
 V1.0 - 2024/11/24 - Initial release.
 
