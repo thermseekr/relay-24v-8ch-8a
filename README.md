@@ -6,7 +6,13 @@ The dimensions are such that the boards can be mounted on a PCB DIN rail holder 
 
 Board uses Omron 10A relays and is limited to 8A/channel per copper trace capacity.
 
-![alt text](https://github.com/thermseekr/relay-24v-8ch-8a/blob/main/V1/relay-24v-8ch-8a-v1.png "RELAY-24V-8CH-8A V1")
+![alt text](https://github.com/thermseekr/relay-24v-8ch-8a/blob/main/V1/relay-24v-8ch-8a-v1.1.0.png "RELAY-24V-8CH-8A V1")
+
+## VERSION HISTORY
+
+V1.1.0 - 2026/06/13 - The 2.54mm pitch input connectors were replaced with 3.5mm pitch for easier installation in the field.
+
+V1.0.0 - 2024/11/24 - Initial release.
 
 ## LICENSE
 
