@@ -277,7 +277,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V1.1"
+      "sch_revision": "V1.2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -527,7 +527,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "relay-24v-8ch-8a-v1.kicad_pro",
+    "filename": "eumesmo-rl-8ch8a-v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -825,8 +825,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "relay-24v-8ch-8a-v1.kicad_sch",
-        "name": "relay-24v-8ch-8a-v1",
+        "filename": "eumesmo-rl-8ch8a-v1.kicad_sch",
+        "name": "eumesmo-rl-8ch8a-v1",
         "uuid": "57cfb5e7-a9ab-4784-80b3-e51e693f5cc8"
       }
     ],
@@ -836,7 +836,7 @@
   "sheets": [
     [
       "57cfb5e7-a9ab-4784-80b3-e51e693f5cc8",
-      "relay-24v-8ch-8a-v1"
+      "eumesmo-rl-8ch8a-v1"
     ]
   ],
   "text_variables": {},

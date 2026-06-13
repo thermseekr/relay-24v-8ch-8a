@@ -8,9 +8,9 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "ESP 8 Relay Module")
-		(date "2026-06-12")
-		(rev "V1.1")
+		(title "eumesmo 8x 24V 8A NO Relay Module")
+		(date "2026-06-13")
+		(rev "V1.2")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -303,7 +303,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/804004ea-8484-4e62-97df-ee6d528e2575")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -713,7 +713,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/c57894e8-b4c2-473a-8da6-d476ff5fb7d4")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1110,7 +1110,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0044d353-17da-4e14-95f3-321c9fddae1e")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1434,7 +1434,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6d466e76-8a1d-46c9-9f2b-6f764ce902f7")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1725,7 +1725,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2b0bf72b-b076-4b31-a84c-daeb2a3c627d")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2395,7 +2395,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/44906a01-bbde-46d4-a585-3454f5d1852f")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2745,7 +2745,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ec8f369c-741f-46c6-a7bf-54b3ed7aa8f3")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3129,7 +3129,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/64872628-dc50-4b5b-9178-18938f06fc5b")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3433,7 +3433,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/c311f5df-7fee-4f67-87c0-bf8ce66891dc")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3757,7 +3757,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/7c3ffb18-a713-4d22-a801-4a8b5b0c8f1b")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4263,7 +4263,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/096cfbfd-8ba4-4f32-a916-3dacf715ec01")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4587,7 +4587,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/0e2c0149-206c-4cf9-8acd-b2c8289d8bcc")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5080,7 +5080,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1d158ec9-3b67-418a-87a7-cd1f57e3b2ca")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5371,7 +5371,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/87a6671e-b989-4c2a-bb7c-18183d668963")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5662,7 +5662,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/edb830c4-e558-4c39-8619-79f1e5f0448b")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6168,7 +6168,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/900c09fc-3ae9-4169-a682-f11fb2d04c24")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6492,7 +6492,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b5669ff1-06e1-41a3-8779-b1b5a4758391")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6809,7 +6809,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/1e8f2b45-73ea-4933-a2fc-b6d89cdb8266")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7188,7 +7188,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7dd4192a-b96a-480a-a445-c2f7442e185c")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7602,7 +7602,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/ee6ad3c3-498d-45bb-baba-703468bdb88f")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7928,7 +7928,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/707e0fd4-1dfa-403e-b136-51c94bd51d83")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8278,7 +8278,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/df3885b0-cf9c-4201-b070-78b7ab743886")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8670,7 +8670,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/e0c0faaf-dd30-408a-b90d-0b71b949f757")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9715,7 +9715,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/cccdf6b2-9016-4abc-b8c4-0c466df0fdc4")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10036,7 +10036,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ab7ba0e9-6933-4ded-b964-43712647b8f1")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11016,7 +11016,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a749ff3e-522b-4821-a63b-e767c571e0d4")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11304,7 +11304,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5ac44404-5908-4a58-ba31-8a83aa9070c5")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11696,7 +11696,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/01929905-41fc-4d5a-b89f-4b8c19d722d0")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12022,7 +12022,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e736e9ac-b2d8-44ca-901e-068131c00224")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12411,7 +12411,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/84f3240f-ec15-4871-aac8-638b105300b3")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12789,7 +12789,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/90c13f0b-dff1-4ac6-868c-7a318310de40")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13167,7 +13167,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/71a24c63-329b-4fb3-80dd-f0c90a0d7c73")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13480,7 +13480,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/7d769293-2f2d-474b-b23e-99d9d40ede96")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13999,7 +13999,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/fc42cc07-d469-40a9-976f-d8be63145c4d")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14409,7 +14409,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/2a8a8c91-31f7-4d3b-ac49-4bd18f54a83d")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14793,7 +14793,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/0bd9985d-4d5d-44f7-9bfb-1e8f0770c3e5")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15286,7 +15286,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/c97ef979-d5a0-4fed-aeb4-e5f42c5ef043")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15805,7 +15805,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/c823b9eb-9578-41c5-b414-eb70ef25b653")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16197,7 +16197,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/6170f300-646b-4671-a068-f1d275bab1e1")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17185,7 +17185,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/37cf821b-1da5-4374-9d22-989d6397fa08")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18230,7 +18230,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/f7ee5772-4b5e-401f-bae5-2aef817eb7fc")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18543,7 +18543,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/6eab2f5c-d9b7-4121-b414-cabe5e3ada74")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19036,7 +19036,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4c2c7a0f-a9e5-4eb3-8532-77ff4967f636")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19340,7 +19340,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/66a49d3f-879d-4986-89ff-0b2699a1f551")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19659,7 +19659,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1e8ec927-2ad4-40d0-aa6b-54756179f02f")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20008,7 +20008,7 @@
 		(property ki_fp_filters "Relay*SPST*Omron*G5PZ*")
 		(path "/facdf818-f7cd-43ad-bc93-ff9b4bbbd1b9")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20566,7 +20566,7 @@
 		(property ki_fp_filters "RV_* Varistor*")
 		(path "/c41d921b-e878-40f1-bf6f-26fe2c96f2b2")
 		(sheetname "/")
-		(sheetfile "relay-24v-8ch-8a-v1.kicad_sch")
+		(sheetfile "eumesmo-rl-8ch8a-v1.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21333,7 +21333,7 @@
 		(layer "Edge.Cuts")
 		(uuid "3884f2c0-c53c-49fd-9b0f-efa7f02cf23e")
 	)
-	(gr_text "V1.1\n2026-06-12"
+	(gr_text "V1.2\n2026-06-13"
 		(at 154.25 76 0)
 		(layer "F.SilkS")
 		(uuid "79d15256-b284-4363-8bf4-c3a53e8d87e6")
@@ -21465,12 +21465,12 @@
 		)
 	)
 	(gr_text "MAX 8A PER CHANNEL"
-		(at 138.55 68 0)
+		(at 138.55 67.25 0)
 		(layer "F.SilkS")
 		(uuid "fcf77a7f-8f5b-415d-909a-1f57b2d8e192")
 		(effects
 			(font
-				(size 1 1)
+				(size 1 0.9)
 				(thickness 0.15)
 			)
 		)
@@ -21651,6 +21651,17 @@
 			)
 		)
 	)
+	(gr_text "eumesmo-rl-8ch8a"
+		(at 138.55 65.5 0)
+		(layer "F.SilkS")
+		(uuid "dc160336-46bd-4d4f-87e4-be13a8effe60")
+		(effects
+			(font
+				(size 1.5 1)
+				(thickness 0.2)
+			)
+		)
+	)
 	(gr_text "OUT1"
 		(at 131 76.25 0)
 		(layer "F.SilkS")
@@ -21745,18 +21756,6 @@
 				(thickness 0.2)
 			)
 			(justify bottom)
-		)
-	)
-	(gr_text "RELAY-24V-8CH-8A-V1"
-		(at 138.55 65.5 0)
-		(layer "F.SilkS")
-		(uuid "dc160336-46bd-4d4f-87e4-be13a8effe60")
-		(effects
-			(font
-				(size 1.5 1.3)
-				(thickness 0.25)
-				(bold yes)
-			)
 		)
 	)
 	(gr_text "OUT1"
